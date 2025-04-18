@@ -26,9 +26,9 @@ For my second visualization, I chose a scatterplot that visualizes the relations
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
+  {% include elements/button.html link="https://github.com/ishakoradiya1/ishakoradiya1.github.io/blob/main/assets/json/ufo-scrubbed-geocoded-time-standardized-00.json" text="The Data" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/ishakoradiya1/ishakoradiya1.github.io/blob/main/python_notebooks/Workbook.ipynb" text="The Analysis" %}
+  {% include elements/button.html link="https://github.com/ishakoradiya1/ishakoradiya1.github.io/blob/main/python_notebooks/Workbook.ipynb" text="The Analysis" %}
 </div>
