@@ -26,7 +26,7 @@ For my second visualization, I chose a scatterplot that visualizes the relations
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
-{% include elements/button.html link="{{ site.baseurl }}/assets/json/ufo-scrubbed-geocoded-time-standardized-00.json" text="The Data" %}
+{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
 </div>
 
 <div class="right">
