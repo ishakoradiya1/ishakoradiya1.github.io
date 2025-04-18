@@ -30,5 +30,5 @@ For my second visualization, I chose a scatterplot that visualizes the relations
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/ishakoradiya1/ishakoradiya1.github.io/blob/main/python_notebooks/workbook.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/ishakoradiya1/ishakoradiya1.github.io/blob/main/python_notebooks/Workbook.ipynb" text="The Analysis" %}
 </div>
